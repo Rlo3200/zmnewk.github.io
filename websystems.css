@@ -3,7 +3,13 @@
 	
 }
 
+h5
+{
+font-size: 280%;
+}
+
 .Main_Display {
+  text-align:center;
   justify-content: space-around;
   display: flex;                       
   flex-wrap: wrap;
