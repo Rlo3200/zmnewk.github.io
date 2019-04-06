@@ -2,3 +2,15 @@
 	margin: auto;
 	
 }
+
+.Main_Display {
+  justify-content: space-around;
+  display: flex;                       
+  flex-wrap: wrap;
+}
+.Main_Cell{
+  flex: 0 0 32%;                     
+  height: 32%;
+  margin-bottom: 10px;
+  background-color: #DCDCDC;
+}
