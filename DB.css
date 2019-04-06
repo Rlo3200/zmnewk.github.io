@@ -29,7 +29,8 @@ h1
 .Movie_format:hover
 {
 	border-style: solid;
-  	border-width: 6px;
+	color: #FFFFFF;
+  	border-width: 1px;
 }
 
 .Main_Display {
