@@ -20,6 +20,3 @@ font-size: 150%;
   margin-bottom: 10px;
   background-color: #DCDCDC;
 }
-.Main_Cell:nth-child(3n) {
-  background-color: #F00;
-}
