@@ -18,7 +18,11 @@ h1
 	height: 300px;
 	
 }
-
+.Movie_format:hover
+{
+	border-style: solid;
+  	border-width: 5px;
+}
 
 .Main_Display {
 	Margin: 0px auto;
