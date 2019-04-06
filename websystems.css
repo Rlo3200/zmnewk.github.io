@@ -16,7 +16,7 @@ h1
 
 
 .Main_Display {
-	Margin:auto;
+	Margin: 0px auto;
 	text-align:center;
 	justify-content: space-around;
 	display: flex;                       
