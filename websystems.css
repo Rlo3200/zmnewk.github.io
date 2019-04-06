@@ -5,25 +5,26 @@
 
 h1
 {
-font-size: 150%;
+	font-size: 150%;
 }
 
 .Movie_format
 {
-  margin:auto;
-  padding:2%;
+	margin:auto;
+	padding:2%;
 }
 
 
 .Main_Display {
-  text-align:center;
-  justify-content: space-around;
-  display: flex;                       
-  flex-wrap: wrap;
+	Margin:auto;
+	text-align:center;
+	justify-content: space-around;
+	display: flex;                       
+	flex-wrap: wrap;
 }
 .Main_Cell{
-  flex: 0 0 32%;                     
-  height: 32%;
-  margin-bottom: 10px;
-  background-color: #DCDCDC;
+	flex: 0 0 32%;                     
+	height: 32%;
+	margin-bottom: 10px;
+	background-color: #DCDCDC;
 }
