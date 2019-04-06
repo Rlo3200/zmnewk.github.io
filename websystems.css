@@ -30,6 +30,6 @@ h1
 .Main_Cell{
 	flex: 0 0 32%;                     
 	height: 32%;
-	margin: 15px;
+	margin-bottom: 12px;
 	background-color: #DCDCDC;
 }
