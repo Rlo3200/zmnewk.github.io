@@ -13,6 +13,13 @@ html {
   -webkit-tap-highlight-color: transparent;
 }
 
+a
+{
+	padding:10px;
+	border-radius: 25px;
+	left: 5%;
+}
+
 h1
 {
 	text-align:center;
@@ -30,6 +37,7 @@ h1
 	padding:10px;
 	width: 250px;
 	height: 300px;
+	border-radius: 25px;
 	
 }
 .Movie_format:hover
