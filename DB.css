@@ -1,0 +1,50 @@
+ # mainhead{
+	margin: auto;	
+}
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -ms-overflow-style: scrollbar;
+  -webkit-tap-highlight-color: transparent;
+}
+
+h1
+{
+	text-align:center;
+	font-size: 400%;
+	margin-bottom: 4%
+}
+
+
+.Movie_format
+{
+
+	margin:0px auto;
+	padding:10px;
+	width: 250px;
+	height: 300px;
+	
+}
+.Movie_format:hover
+{
+	border-radius: 25px;  
+  	background-color:grey;
+}
+
+.Main_Display {
+
+	Margin: auto;
+	text-align:center;
+	justify-content:space-evenly;
+	display: flex;                       
+	flex-wrap: wrap;
+}
+.Main_Cell{
+	border-radius: 25px;                     
+	height: 3%;
+	margin-bottom: 12px;
+	background-color: #DCDCDC;
+}
