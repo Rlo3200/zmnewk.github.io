@@ -4,11 +4,57 @@
 <head>
 <title>Online Movie Store : Payment</title>
 <link rel="stylesheet" type="text/css" href="bootstrap3.min.css">
+          <script>
+          window.onload = function(){
+              var numRand = Math.floor(Math.random() * 10000000);
+              document.getElementById('output').innerHTML = "Your Order Number is: " + numRand;
+          }
+          
+      </script>
 </head>
+    
+     <style type="text/css">
+         h3
+         {
+             text-align: center;
+         }
+         body
+         {
+             background: #c9daf2;
+         }
+        .container
+        {
+            
+            margin-top: 5%;
+            height: 500px;
+            background-color: aliceblue;
+            width:40%;
+            align-content: center;
+        }
+        form
+        {
+            margin: auto;
+            align-content: center;
+        }
+button {
+    margin-left: 30%;
+    margin-top: 60%;
+    width: 40%;
+         }
+         h1
+         {
+            text-align: center;
+         }
+    </style>
+    
 <body>
   <div class="container">
   <h1>Payment Completed</h1>
+      <br>
+
+     <h3 id="output"></h3>
     <form method="get" action="database.html"><button type="submit">BACK TO MOVIES</button></form>
+      <br>
 </div>
 </body>
 </html>
