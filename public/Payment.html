@@ -13,6 +13,7 @@
         button
         {
             margin-top: 10px;
+            align-content: center;
         }
         
         input
@@ -24,13 +25,18 @@
          {
              background: #c9daf2;
          }
+        h1
+        {
+            display: grid;
+            text-align: center;
+        }
 .container
         {
-            
+            display: grid;
             margin-top: 5%;
             height: 500px;
             background-color: aliceblue;
-            width:60%;
+            width:50%;
             align-content: center;
         }
         form
@@ -41,14 +47,14 @@
     
 <body>
   <div class="container">
-  <h1>Payment Process</h1>
+  <h1>Payment</h1>
       <form method="get" action="Payment_C.html">
 Card Number: <input type= "text" name="Card Number" value="" minlength="1000000000000000" maxlength="16" required autofocus><br>
 CVV: <input type="text" name="CVV" value="" size="3" min= "001" max="999" maxlength="3" required>
 Expiry Date: <input  type= "month" name="Expiry" value="" size="8" required><br>
 <button type="submit">SUBMIT</button>
 </form>
-    </div>
+</div>
     
     <script>
 function myFunction() {
