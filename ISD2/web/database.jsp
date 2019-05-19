@@ -4,7 +4,7 @@
 <html>
 <head>
 <title>Online Movie Store</title>
-<link rel="stylesheet" type="text/css" href="bootstrap3.min.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap3.min.css">
 </head>
 
 <style type="text/css">

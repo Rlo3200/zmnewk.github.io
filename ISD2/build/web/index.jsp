@@ -11,7 +11,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
 
-<link rel="stylesheet" type="text/css" href="bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="screen" />
 <style>
 		.form-control {
   display: block;

@@ -10,7 +10,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
 
-<link rel="stylesheet" type="text/css" href="bootstrap.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="screen" />
 
 <style>
       .bd-placeholder-img {
@@ -30,7 +30,7 @@
       }
     </style>
     <!-- Custom styles for this template -->
-    <link href="login.css" rel="stylesheet">
+    <link href="css/login.css" rel="stylesheet">
 
 <body class="text-center">
     <form class="form-signin">
