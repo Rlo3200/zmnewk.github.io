@@ -58,6 +58,7 @@
                   <th>Email</th>
                   <th>Phone</th>
                   <th>Age</th>
+                  <th>Gender</th>
                   <th>Admin</th>
                   <th>Status</th>
                   <th>Delete</th>
@@ -73,28 +74,31 @@
                   <td>mark@mdo.com</td>
                   <td>0463572268</td>
                   <td>45</td>
+                  <td>Male</td>
                   <td>yes</td>
                   <td><button type="button" class="btn btn-secondary btn-sm">Active</button></td>
                   <td><button type="button" class="btn btn-danger btn-sm">Delete</button></td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
-                  <td>John</td>
+                  <td>Jane</td>
                   <td>Smith</td>
-                  <td>john@sihe.com</td>
+                  <td>jane@sihe.com</td>
                   <td>0437572287</td>
                   <td>30</td>
+                  <td>Female</td>
                   <td>no</td>
                   <td><button type="button" class="btn btn-secondary btn-sm">Active</button></td>
                   <td><button type="button" class="btn btn-danger btn-sm">Delete</button></td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
-                  <td>Mark</td>
-                  <td>Otto</td>
-                  <td>mark@mdo.com</td>
+                  <td>Matt</td>
+                  <td>Xi</td>
+                  <td>matt@smsdyo.com</td>
                   <td>0463942245</td>
                   <td>22</td>
+                  <td>Other</td>
                   <td>no</td>
                   <td><button type="button" class="btn btn-secondary btn-sm">Inactive</button></td>
                   <td><button type="button" class="btn btn-danger btn-sm">Delete</button></td>
